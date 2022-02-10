@@ -1,2 +1,2 @@
 # jwaDemo1
-demo for pulling an pushing repository 
+This is a Java Basics file submitted by Amad Martin 
